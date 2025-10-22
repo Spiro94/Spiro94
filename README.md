@@ -1,19 +1,40 @@
-### Hi there 👋 
-#### I'm Daniel Villamizar, an awesome Mobile Developer
+## 👋 Hi, I'm **Daniel Villamizar**
+### 🚀 Full Stack & Mobile Developer | Flutter ✦ Supabase ✦ React ✦ AI Agents
 
-- 🔭 I’m currently working on Dart/Flutter
+I’m passionate about crafting elegant, scalable, and user-focused digital products — from backend logic to front-end delight.  
+With a strong foundation in **Flutter** and **Supabase**, I build robust full-stack solutions that blend performance, design, and innovation.  
+I also explore cutting-edge technologies like **Google’s Agent Development Kit** to integrate intelligent automation into modern apps.
 
-#### Tech Stack:
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+### 🧠 **What I Do**
+- 💡 Design and develop **cross-platform apps** with **Flutter**
+- ⚙️ Build **secure and scalable APIs** using **Supabase** and **PostgreSQL**
+- 🧩 Create **modern web interfaces** with **React**, **Vite**, and **TailwindCSS**
+- 🤖 Experiment with **AI-driven agents** for smarter digital experiences
+- 🚀 Automate CI/CD pipelines with **GitHub Actions** and **Codemagic**
 
+---
 
-#### Tools:
+### 🛠️ **Tech Stack**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+**Frontend & Mobile**  
+> Flutter · React · Vite · TailwindCSS  
+
+**Backend & Cloud**  
+> Supabase · Node.js · Firebase · PostgreSQL · REST APIs  
+
+**Tools & DevOps**  
+> Git · GitHub Actions · VS Code · Docker · .NET  
+
+**AI & Automation**  
+> Google Agent Development Kit · OpenAI APIs  
+
+---
+
+### 🌍 **Connect With Me**
+📫 [LinkedIn](https://www.linkedin.com/in/danielvillamizar94/) • [GitHub](https://github.com/Spiro94)
+
+---
+
+💬 *“Clean code, delightful UX, and powerful automation — that’s my craft.”*
