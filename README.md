@@ -33,7 +33,7 @@ I also explore cutting-edge technologies like **Google’s Agent Development Kit
 ---
 
 ### 🌍 **Connect With Me**
-📫 [LinkedIn](https://www.linkedin.com/in/danielvillamizar94/) • [GitHub](https://github.com/Spiro94)
+📫 [LinkedIn](https://www.linkedin.com/in/danielvillamizar94/) • [GitHub](https://github.com/Spiro94) • [Web Page](danielvillamizar.dev)
 
 ---
 
