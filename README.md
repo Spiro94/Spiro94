@@ -58,7 +58,7 @@ I'm diving deep into **Rust** — one of the most loved programming languages fo
 
 ### 🌍 **Connect With Me**
 
-📫 [LinkedIn](https://www.linkedin.com/in/danielvillamizar94/) • [GitHub](https://github.com/Spiro94) • [Web Page](danielvillamizar.dev)
+📫 [LinkedIn](https://www.linkedin.com/in/danielvillamizar94/) • [GitHub](https://github.com/Spiro94) • [Web Page](https://www.danielvillamizar.dev/)
 
 ---
 
